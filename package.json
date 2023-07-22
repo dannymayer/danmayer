@@ -8,7 +8,10 @@
     "dev:tailwind": "tailwindcss -i ./src/css/base.css -o ./_site/output.css --watch",
     "build": "eleventy && tailwindcss -i ./src/style/base.css -o ./_site/output.css --minify"
   },
-  "keywords": [],
+  "keywords": [
+    "web developer",
+    "freelance"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
