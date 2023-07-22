@@ -1,4 +1,7 @@
 {
   "siteTitle": "Dan Mayer",
-  "author": "Dan Mayer"
+  "author": {
+    "name": "Dan Mayer",
+    "email": "dan@dannyrmayer.com"
+  }
 }
