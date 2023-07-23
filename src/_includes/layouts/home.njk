@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+{% include "../components/hero.njk" %}
+
+<section>
+	<h1 class="text-4xl">This is the {{ title }} page.</h1>
+	{{ content | safe }}
+</section>

@@ -1,7 +1,11 @@
 {
-  "siteTitle": "Dan Mayer",
+  "title": "Dan Mayer",
+  "url": "www.dannyrmayer.com",
+  "language": "en",
+  "description": "The personal website for Dan Mayer.",
   "author": {
     "name": "Dan Mayer",
-    "email": "dan@dannyrmayer.com"
+    "email": "dan@dannyrmayer.com",
+    "url": "www.dannyrmayer.com/about"
   }
 }

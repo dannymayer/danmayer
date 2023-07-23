@@ -1,17 +1,9 @@
 ---
-templateKey: article-page
-title: Buyer Personas
-slug: buyer-personas
-path: buyer-personas
-date: 2018-08-11T17:37:22.853Z
-cover: /img/ben-sweet-456320-unsplash.jpg
-tags:
-  - Digital Marketing
-meta_title: Buyer Personas
-meta_description: >-
-  An overview of what buyer personas are and how they can help further your
-  digital marketing efforts.
-author: Danny Mayer
+title: 'Buyer Personas'
+date: '2018-08-11'
+tags: 'Digital Marketing'
+description: 'An overview of what buyer personas are and how they can help further your
+  digital marketing efforts.'
 ---
 # What are Buyer Personas
 

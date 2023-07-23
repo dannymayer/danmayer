@@ -1,16 +1,8 @@
 ---
-templateKey: article-page
-title: Planning your website
-slug: planning-your-website
-path: planning-your-website
-date: 2018-08-27
-cover: /img/website.jpg
-tags:
-  - Web Design
-meta_title: Buyer Personas
-meta_description: >-
-  Taking your brand or business online is one of the most exciting first steps to bringing your vision to life, but it is not without its challenges.  Creating a website is a huge undertaking that requires planning and a vision of how you want your website to function.  Things to consider include picking a hosting provider that fits your needs, what kind of message you are trying to portray to your target audience.
-author: Danny Mayer
+title: 'Planning your website'
+date: '2018-08-27'
+tags: 'Web Design'
+description: 'Taking your brand or business online is one of the most exciting first steps to bringing your vision to life, but it is not without its challenges.  Creating a website is a huge undertaking that requires planning and a vision of how you want your website to function.  Things to consider include picking a hosting provider that fits your needs, what kind of message you are trying to portray to your target audience.'
 ---
 # **Overwhelmed by the process of planning a website?**
 
